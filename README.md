@@ -16,12 +16,13 @@ In this project, we have solved the following key analytical questions:
 
 
 #3. What is the Average strike rate of batsmen in th IPL dataset? 
+
 ![ss3](https://github.com/user-attachments/assets/a6b47762-a6dd-4490-8f99-ecfcbfceddb2)
 
 
- #4. Which batsman has the highest strike rate ??
+#4. Which batsman has the highest strike rate ??
  
- ![ss4](https://github.com/user-attachments/assets/69067ddc-72e8-417a-9309-15098fe38359)
+![ss4](https://github.com/user-attachments/assets/69067ddc-72e8-417a-9309-15098fe38359)
 
 
 #5 how many batsman was dimissed by bowler by SL malinga ? 
