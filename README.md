@@ -44,9 +44,13 @@ In this project, we have solved the following key analytical questions:
 
 ![ss8](https://github.com/user-attachments/assets/21562b1b-c489-477f-961c-408965b8450c)
 
+Dataset Details
 
-tool use : 
-SQL and CSV files
+>> Format: CSV converted to SQL tables
+
+>> Tables Included: Matches, Players, Teams, Deliveries
+
+>> Columns: Match ID, Team Names, Player Names, Runs, Wickets, Strike Rate, Economy, Venue, Toss Decision, etc.
 
 
 
