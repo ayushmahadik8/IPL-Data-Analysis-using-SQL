@@ -35,7 +35,7 @@ In this project, we have solved the following key analytical questions:
 ![ss6](https://github.com/user-attachments/assets/ad268f2a-2e75-4aa1-8eb1-1e0632cbde06)
 
 
-#7(JOin) How many Extra(Wide & no-ball) were bowled by each  team in each match
+#7(JOin) How many Extra(Wide & no-ball) were bowled by each  team in each match?
 
 ![ss7](https://github.com/user-attachments/assets/b2e06bf7-7efa-49fc-8e37-f3ed7fee0cbf)
 
