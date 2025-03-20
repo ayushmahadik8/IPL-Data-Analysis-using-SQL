@@ -46,7 +46,7 @@ In this project, we have solved the following key analytical questions:
 
 Dataset Details
 
->> Format: CSV converted to SQL tables
+>> Format: CSV converted to SQL tables 🏏
 
 >> Tables Included: Matches, Players, Teams, Deliveries
 
