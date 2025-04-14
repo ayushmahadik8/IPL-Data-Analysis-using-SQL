@@ -5,7 +5,7 @@ This project is an IPL Data Analysis using SQL, where we explore various aspects
 
 In this project, we have solved the following key analytical questions :-
 
-# 1. What are the top 5 players with the most player of the match awards?
+# 1. What are the top 5 players with the most player of the match awards ?...
 
 ![ss1](https://github.com/user-attachments/assets/b352c354-8aff-48f7-8b7f-ac98d898cf33)
 
