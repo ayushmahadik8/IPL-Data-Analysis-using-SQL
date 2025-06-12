@@ -1,4 +1,4 @@
-# IPL-Data-Analysis-using-SQL 🏏
+# IPL-Data-Analysis-using-SQL  🏏
  Project Overview
 
 This project is an IPL Data Analysis using SQL, where we explore various aspects of IPL matches, player performances, and team statistics. The goal is to derive meaningful insights from historical IPL data by writing efficient SQL queries...
