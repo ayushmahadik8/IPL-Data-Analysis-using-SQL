@@ -10,7 +10,7 @@ In this project, we have solved the following key analytical questions :-
 ![ss1](https://github.com/user-attachments/assets/b352c354-8aff-48f7-8b7f-ac98d898cf33)
 
 
-#2. How many matches were won by each team in each season? 
+#2. How many matches were won by each team in each season ? 
 
 ![ss2](https://github.com/user-attachments/assets/74aec7a3-24be-4138-a66f-2b115a758df6)
 
